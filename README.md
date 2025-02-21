@@ -2,6 +2,8 @@
 
 Welcome to the Movie Ticket Booking App! This application is built using Flask for the backend and Vue.js for the frontend. It allows users to book movie tickets, receive daily reminders, generate monthly reports, and export data to CSV. The backend also utilizes Redis for caching and Celery for background jobs.
 
+[Demo Video](https://drive.google.com/file/d/1DjohVqfHfbGuGTD6lHSfJWtTdzg0xtrj/view?usp=drivesdk)
+
 ## Setup
 
 ### Backend (Flask, Celery, Redis)
